@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Autoprefixer",
+		"ColorPick",
+		"ColorPicker",
+		"Gutter Color",
+		"ImageMagick",
+		"jQuery",
+		"JsFormat",
+		"Package Control",
+		"Theme - Spacegray"
+	]
+}
