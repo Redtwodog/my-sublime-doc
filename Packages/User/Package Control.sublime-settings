@@ -9,6 +9,7 @@
 		"Autoprefixer",
 		"ColorPick",
 		"ColorPicker",
+		"CSScomb",
 		"Gutter Color",
 		"ImageMagick",
 		"jQuery",
